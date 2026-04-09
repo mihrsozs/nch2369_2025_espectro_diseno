@@ -31,8 +31,10 @@ Como resultado, el notebook genera:
   - Espectro de referencia  
   - Espectro reducido por R para dirección x
   - Espectro reducido por R para dirección y
-  - Espectro vertical  
-
+     
+- **Verificación de corte mínimo y máximo**, entregando los factores de correción asociados.
+- **Factor de de amplificación**, para estimar desplazamientos elásticos.
+  
 - **Archivos `.txt` con los espectros calculados**, incluyendo:
   - Espectro de referencia  
   - Espectro reducido (con R) para dirección x
