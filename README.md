@@ -48,6 +48,7 @@ Estos archivos se generan en un formato compatible con software de análisis est
 ## Ejemplo de resultado
 
 ![Espectro de diseño](IIIZ2CR3.jpg)
+![Espectro de diseño](SaH_Z2C.jpg)
 
 ---
 
