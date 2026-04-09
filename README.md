@@ -23,7 +23,7 @@ A partir de estos parámetros, el script calcula:
 - **Espectro de referencia**
 - **Espectro de diseño reducido por el factor R**
 - **Espectro de diseño vertical**, incluyendo la estimación del **coeficiente sísmico vertical** según lo indicado en la NCh2369:2025.
-- **Verifica corte minimo y corte maxímo"
+- **Verifica corte mínimo y corte máximo**
 
 Como resultado, el notebook genera:
 
